@@ -1,0 +1,16 @@
+Paper link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10496095
+
+Dataset Link: https://www.kaggle.com/datasets/wittigenz/hydras
+
+
+Algorithm: : Logistic Regression
+(LR), Naïve Bayes (NB), K-Nearest-Neighbors (KNN), Support Vector Machine (SVM), Random Forest (RF), and
+Gradient Boosting (GB) with K-fold cross validation
+
+
+Logistic Regression(LR)-0.9950, 
+Naïve Bayes (NB)- 0.9887, 
+K-Nearest-Neighbors (KNN)-0.9988,
+ Support Vector Machine (SVM)-0.5181, 
+Random Forest (RF)- 0.9999, 
+Gradient Boosting (GB)-0.9998 
